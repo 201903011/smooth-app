@@ -37,8 +37,8 @@ class SmoothCard extends StatelessWidget {
 
   final Widget child;
   final Color? color;
-  final EdgeInsets? margin;
-  final EdgeInsets? padding;
+  final EdgeInsetsGeometry? margin;
+  final EdgeInsetsGeometry? padding;
   final double elevation;
 
   @override
